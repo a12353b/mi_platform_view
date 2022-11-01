@@ -1,0 +1,77 @@
+{
+  "status": 200,
+  "data": {
+    "sum": 5876.39,
+    "today": 46.88,
+    "dealer": 1245,
+    "cars": 3486,
+    "auction": 153,
+    "topBrand": [
+      {"name": "XXXX1", "light": true},
+      {"name": "XXXX2", "light": false},
+      {"name": "XXXX3", "light": false},
+      {"name": "XXXX4", "light": false},
+      {"name": "XXXX5", "light": false},
+      {"name": "XXXX6", "light": false},
+      {"name": "XXXX7", "light": false},
+      {"name": "XXXX8", "light": false},
+      {"name": "XXXX9", "light": false}
+    ],
+    "topCar": [
+      {"name": "XXXX1", "light": true},
+      {"name": "XXXX2", "light": false},
+      {"name": "XXXX3", "light": false},
+      {"name": "XXXX4", "light": false},
+      {"name": "XXXX5", "light": false},
+      {"name": "XXXX6", "light": false},
+      {"name": "XXXX7", "light": false},
+      {"name": "XXXX8", "light": false},
+      {"name": "XXXX9", "light": false}
+    ],
+    "dealerAreaX": ["江苏省","河北省","河南省","北京市","天津市","上海市","海南省","吉林省"],
+    "dealerAreaY": [32,45,64,18,24,36,28,19],
+    "carDealerAreaX": ["江苏省","河北省","河南省","北京市","天津市","上海市","海南省","吉林省"],
+    "carDealerAreaY": [56,48,38,28,39,52,43,29],
+    "todayCars": [
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",22.00],
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",12.30],
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",16.50],
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",14.40],
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",11.30],
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",13.40],
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",11.20],
+      ["XXXX XXXX XXXX XXX XX XX XXXXX XXX XX",15.00]
+    ],
+    "carsSum": [
+      {"name": "XXXX", "value": 85},
+      {"name": "XXXX", "value": 66},
+      {"name": "XXXX", "value": 20},
+      {"name": "XXXX", "value": 35},
+      {"name": "XXXX", "value": 75},
+      {"name": "XXXX", "value": 77},
+      {"name": "XXXX", "value": 66},
+      {"name": "XXXX", "value": 27},
+      {"name": "XXXX", "value": 30}
+    ],
+    "soldSum": [
+      {"name": "XXXX", "value": 85},
+      {"name": "XXXX", "value": 66},
+      {"name": "XXXX", "value": 20},
+      {"name": "XXXX", "value": 35},
+      {"name": "XXXX", "value": 75},
+      {"name": "XXXX", "value": 77},
+      {"name": "XXXX", "value": 66},
+      {"name": "XXXX", "value": 27},
+      {"name": "XXXX", "value": 30}
+    ],
+    "orderState": [
+      {"name": "XXX1", "value": 140},
+      {"name": "XXX2", "value": 43},
+      {"name": "XXX3", "value": 37},
+      {"name": "XXX4", "value": 67},
+      {"name": "XXX5", "value": 36},
+      {"name": "XXX6", "value": 28}
+    ],
+    "map": [["杭州", "南昌"],["郑州","南昌"],["南昌","成都"],["武汉","西安"],["兰州","长沙"]]
+  }
+}
